@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @JoAnnCiara
-- 👀 I’m interested in html, css. javascript, python
-- 🌱 I’m currently learning ... bootstrap
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in web development
+- 🌱 I’m currently learning ... react native
+- 💞️ I’m looking to collaborate on projects
 - 📫 How to reach me ... here!
 
 <!---
