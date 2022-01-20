@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @JoAnnCiara
 - 👀 I’m interested in web development
-- 🌱 I’m currently learning ... react native
+- 🌱 I’m currently learning ... react native, node
 - 💞️ I’m looking to collaborate on projects
 - 📫 How to reach me ... here!
 
