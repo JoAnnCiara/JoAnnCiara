@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @JoAnnCiara
-- 👀 I’m interested in web development, blockchain and security
+- 👀 I’m interested in digital forensics, blockchain and security, and web development
 - 🌱 I’m currently seeking employment
 - 💞️ I’m looking to collaborate on projects
 - 📫 How to reach me ... here!
